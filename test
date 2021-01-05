@@ -1,1 +1,2 @@
-hello test for githook
+echo "hello test for githook"
+echo "git hook"
